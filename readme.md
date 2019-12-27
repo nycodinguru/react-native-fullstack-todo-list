@@ -1,6 +1,6 @@
 # Todo List
 ### What is the Todo List?
-Todo is a React Native app built with Expo.
+Todo List is a React Native app built with Expo, Facebook Social Login, and Firebase.
 The app allows users to create, read, update, and delete todos.
 Todos are stamped with a creation, update, or completed date, where applicable.
 
