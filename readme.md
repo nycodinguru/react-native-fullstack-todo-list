@@ -22,7 +22,7 @@ Todos are stamped with a creation, update, or completed date, where applicable.
 - Flexbox
 
 ## Screenshots
-![[Sign In Screen](https://i.imgur.com/tJl0c1w.png)
+![Sign In Screen](https://i.imgur.com/tJl0c1w.png)
 ![Facebook Social Login Screen](https://i.imgur.com/OqlI1Gh.png)
 ![Empty Todo List](https://i.imgur.com/XxvVxDS.png)
 ![New Todo Modal](https://i.imgur.com/WTwSFy5.png)
