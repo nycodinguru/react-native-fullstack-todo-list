@@ -19,10 +19,12 @@
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
-      "**/*"
+      "assets/*"
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Full-stack todo list React Native app with Facebook Auth and Firebase",
+    "githubUrl": "https://github.com/nycodinguru/react-native-fullstack-todo-list"
   }
 }

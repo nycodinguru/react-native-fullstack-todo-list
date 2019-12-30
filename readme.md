@@ -28,7 +28,6 @@ Todos are stamped with a creation, update, or completed date, where applicable.
 ![New Todo Modal](https://i.imgur.com/WTwSFy5.png)
 ![Todo List with Multiple Todos](https://i.imgur.com/QxkNSVK.png)
 ![Completed Todo Prompt](https://i.imgur.com/M0jEgny.png)
-![Action Sheet Menu](https://i.imgur.com/8uhASD6.png)
 ![Edit Mode](https://i.imgur.com/6yPDT7k.png)
 ![Update Todo Modal](https://i.imgur.com/aHPZaaP.png)
 ![Sign Out Screen](https://i.imgur.com/DVjkv49.png)

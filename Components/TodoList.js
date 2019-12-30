@@ -210,7 +210,7 @@ export default function TodoList(props) {
         saveTodos()
         ActionSheetIOS.showActionSheetWithOptions(
             {
-                options: ['Cancel', 'Toogle Edit Mode', props.navigation.getParam('user') ? 'Sign Out' : 'Sign In'],
+                options: ['Cancel', 'Toggle Edit Mode', props.navigation.getParam('user') ? 'Sign Out' : 'Sign In'],
                 cancelButtonIndex: 0
             },
             (buttonIndex) => {
